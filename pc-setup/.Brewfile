@@ -1,0 +1,32 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "ansible"
+brew "anyenv"
+brew "awscli"
+brew "curl"
+brew "git"
+brew "mas"
+brew "starship"
+brew "vim"
+brew "wget"
+brew "yarn"
+brew "zsh-completions"
+cask "alfred"
+cask "clipy"
+cask "docker"
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "gyazo"
+cask "iterm2"
+cask "postman"
+cask "sequel-ace"
+cask "spotify"
+cask "vagrant"
+cask "visual-studio-code"
+cask "zoomus"
+mas "1Password 7", id: 1333542190
+mas "Kindle", id: 405399194
+mas "LINE", id: 539883307
+mas "Magnet", id: 441258766
+mas "Slack", id: 803453959
