@@ -6,5 +6,5 @@
 
 ## 目次
 
-- pc-setup：新しい Mac をセットアップする。
+- mac-setup：新しい Mac をセットアップする。
 - rails-on-docker：Docker を使用して Rails の実行環境を構築する。
