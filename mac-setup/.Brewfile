@@ -13,7 +13,9 @@ brew "wget"
 brew "yarn"
 brew "zsh-completions"
 cask "alfred"
+cask "appcleaner"
 cask "clipy"
+cask "deepl"
 cask "docker"
 cask "google-chrome"
 cask "google-japanese-ime"
@@ -21,12 +23,14 @@ cask "gyazo"
 cask "iterm2"
 cask "krisp"
 cask "postman"
+cask "rubymine"
 cask "sequel-ace"
 cask "spotify"
 cask "vagrant"
 cask "visual-studio-code"
 cask "zoomus"
 mas "1Password 7", id: 1333542190
+mas "CleanMyMac X", id: 1339170533
 mas "Kindle", id: 405399194
 mas "LINE", id: 539883307
 mas "Magnet", id: 441258766

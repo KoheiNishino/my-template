@@ -23,7 +23,9 @@ brew install wget
 brew upgrade
 
 brew cask install alfred
+brew cask install appcleaner
 brew cask install clipy
+brew cask install deepl
 brew cask install docker
 brew cask install google-chrome
 brew cask install google-japanese-ime
@@ -31,6 +33,7 @@ brew cask install gyazo
 brew cask install iterm2
 brew cask install krisp
 brew cask install postman
+brew cask install rubymine
 brew cask install sequel-ace
 brew cask install spotify
 brew cask install vagrant
@@ -39,6 +42,7 @@ brew cask install zoomus
 brew cask upgrade
 
 mas install 1333542190  # 1Password 7
+mas install 1339170533  # CleanMyMac X
 mas install 441258766   # Magnet
 mas install 803453959   # Slack
 mas upgrade
