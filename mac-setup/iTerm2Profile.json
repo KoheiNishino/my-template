@@ -8,27 +8,25 @@
     "Red Component" : 0.074933364987373352,
     "Blue Component" : 0.47479093074798584
   },
-  "Ansi 2 Color" : {
-    "Green Component" : 0.71854472160339355,
-    "Red Component" : 0.48304364085197449,
-    "Blue Component" : 0.35710996389389038
-  },
+  "Custom Directory" : "No",
   "Normal Font" : "FiraCodeNerdFontComplete-Regular 12",
   "Bold Color" : {
     "Green Component" : 1,
     "Red Component" : 1,
     "Blue Component" : 0.98028081655502319
   },
-  "Link Color" : {
-    "Red Component" : 0,
-    "Color Space" : "sRGB",
-    "Blue Component" : 0.73423302173614502,
-    "Alpha Component" : 1,
-    "Green Component" : 0.35916060209274292
+  "Ansi 2 Color" : {
+    "Green Component" : 0.71854472160339355,
+    "Red Component" : 0.48304364085197449,
+    "Blue Component" : 0.35710996389389038
   },
-  "Custom Directory" : "No",
+  "Ansi 3 Color" : {
+    "Green Component" : 0.70341014862060547,
+    "Red Component" : 0.91225624084472656,
+    "Blue Component" : 0.16496320068836212
+  },
   "Right Option Key Sends" : 0,
-  "Rows" : 25,
+  "Rows" : 40,
   "Default Bookmark" : "No",
   "Cursor Guide Color" : {
     "Red Component" : 0.70213186740875244,
@@ -66,20 +64,21 @@
   ],
   "Working Directory" : "\/Users\/koheinishino",
   "Blinking Cursor" : false,
-  "Disable Window Resizing" : true,
+  "Space" : 0,
   "Sync Title" : false,
   "Prompt Before Closing 2" : false,
   "BM Growl" : true,
+  "Mouse Reporting" : true,
   "Command" : "",
   "Description" : "Default",
-  "Mouse Reporting" : true,
-  "Screen" : -1,
+  "Disable Window Resizing" : true,
+  "Screen" : -2,
   "Selection Color" : {
     "Green Component" : 0.34349527955055237,
     "Red Component" : 0.089366093277931213,
     "Blue Component" : 0.46659797430038452
   },
-  "Columns" : 80,
+  "Columns" : 160,
   "Idle Code" : 0,
   "Ansi 13 Color" : {
     "Green Component" : 0.25756442546844482,
@@ -295,7 +294,7 @@
     "Red Component" : 0.46331635117530823,
     "Blue Component" : 0.79221165180206299
   },
-  "Name" : "MyProfile",
+  "Name" : "iTerm2Profile",
   "Cursor Text Color" : {
     "Green Component" : 0.22283002734184265,
     "Red Component" : 0.20568123459815979,
@@ -318,10 +317,12 @@
     "Blue Component" : 0.38021323084831238
   },
   "Horizontal Spacing" : 1,
-  "Ansi 3 Color" : {
-    "Green Component" : 0.70341014862060547,
-    "Red Component" : 0.91225624084472656,
-    "Blue Component" : 0.16496320068836212
+  "Link Color" : {
+    "Red Component" : 0,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.73423302173614502,
+    "Alpha Component" : 1,
+    "Green Component" : 0.35916060209274292
   },
   "Ansi 4 Color" : {
     "Green Component" : 0.60329484939575195,
