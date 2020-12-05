@@ -31,9 +31,9 @@ brew cask install google-chrome
 brew cask install google-japanese-ime
 brew cask install gyazo
 brew cask install iterm2
+brew cask install jetbrains-toolbox
 brew cask install krisp
 brew cask install postman
-brew cask install rubymine
 brew cask install sequel-ace
 brew cask install spotify
 brew cask install vagrant
