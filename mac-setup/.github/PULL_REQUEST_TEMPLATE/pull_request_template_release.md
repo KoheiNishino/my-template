@@ -1,7 +1,7 @@
 ## リリース作業
 
 - [ ] PullRequest を Merge する
-- [ ] Capistrano からデプロイを実効する `bundle exec cap production deploy`
+- [ ] Capistrano からデプロイを実行する `bundle exec cap production deploy`
 - [ ] Slack 上でリリース報告を行う
 - [ ] リリースノートへ追記する
 
