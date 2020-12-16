@@ -66,15 +66,6 @@ alias grev='git revert'
 alias gs='git status'
 alias gst='git status'
 
-alias v='vagrant'
-alias vst='vagrant status'
-alias vss='vagrant ssh'
-alias vst='vagrant status'
-alias vu='vagrant up'
-
-alias sz='source ~/.zshrc'
-alias vz='vim ~/.zshrc'
-
 # -----------------------------
 # Global Alias
 # -----------------------------
@@ -115,16 +106,16 @@ setopt auto_pushd
 
 # コマンドミスを修正
 setopt correct
-
+  
 # 同じコマンドをヒストリに残さない
 setopt hist_ignore_all_dups
 
 # 直前と同じコマンドの場合はヒストリに追加しない
 setopt hist_ignore_dups
-
+ 
 # スペースから始まるコマンド行はヒストリに残さない
 setopt hist_ignore_space
-
+ 
 # ヒストリに保存するときに余分なスペースを削除する
 setopt hist_reduce_blanks
 
