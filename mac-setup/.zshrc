@@ -66,6 +66,14 @@ alias grev='git revert'
 alias gs='git status'
 alias gst='git status'
 
+alias v='vagrant'
+alias vss='vagrant ssh'
+alias vst='vagrant status'
+alias vu='vagrant up'
+
+alias sz='source ~/.zshrc'
+alias vz='vim ~/.zshrc'
+
 # -----------------------------
 # Global Alias
 # -----------------------------
