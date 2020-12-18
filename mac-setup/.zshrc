@@ -67,6 +67,7 @@ alias gs='git status'
 alias gst='git status'
 
 alias v='vagrant'
+alias vh='vagrant halt'
 alias vss='vagrant ssh'
 alias vst='vagrant status'
 alias vu='vagrant up'
